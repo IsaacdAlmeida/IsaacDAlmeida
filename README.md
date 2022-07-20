@@ -1,10 +1,18 @@
 
-# Hey, i'm Isaac! 🧠
+# Hey, sou Isaac! 🧠
 
+```javascript
+const Isaac = {
+  code: ["Javascript", "HTML", "CSS", "Ruby"],
+  technologies: {
+    frontEnd: ["React", "Redux, "Jest", "Styled-Components", "RTL tests"],
+    backEnd: ["Ruby on Rails", "Docker", "mySQL"]
+  }  
+}
+```
 
 ## 🚀 About me
-I’ve always loved technology. I'm looking for opportunities to grow in my caree, i'm a full stack web developer student at trybe.
-I think the thecnology has played a very important role in how we live in the world today.
+Desenvolvedor web full stack, amando esse fantástico mundo do desenvolvimento desde 2020!
 
 [![card](https://github-readme-stats.vercel.app/api?username=IsaacdAlmeida&theme=Radical)](https://github.com/IsaacdAlmeida/)
 
