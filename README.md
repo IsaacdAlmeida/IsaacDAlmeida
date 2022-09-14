@@ -3,10 +3,10 @@
 
 ```javascript
 const Isaac = {
-  code: ["Javascript", "HTML", "CSS", "Node"],
+  code: ["Javascript", "HTML", "CSS", "Node", "TypeScript"],
   technologies: {
     frontEnd: ["React", "Redux, "Jest", "Styled-Components", "RTL tests"],
-    backEnd: ["Node", "Docker", "mySQL", "Mocha tests"]
+    backEnd: ["Sequelize", "Docker", "mySQL", "Mocha tests"]
   }  
 }
 ```
