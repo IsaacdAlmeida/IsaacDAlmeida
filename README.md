@@ -4,9 +4,13 @@
 ## 🚀 About me
 
 <section style="">
-Tenho 31 anos, sou de Recife e desde sempre gostei de tecnologia, gosto de dizer que demorou quase 30 anos para chegar me tornar um desenvolvedor, passei por muita coisa, fiz direito, fui trabalhar em outras áreas, mas a tecnologia foi o que sempre me atraiu. Decidir trabalhar com o que gosto, sempre tive curiosidade de saber como funcionam as coisas por trás dos panos, assim, resolvi saber como funciona a web. 
+Antes de adentrar na área de desenvolvimento e tecnologia, muitas pessoas destacavam minha aptidão e afinidade com a tecnologia, sugerindo que eu "trabalhasse com computadores" devido ao meu amplo entendimento do assunto. Essas observações surgiam mesmo quando eu atuava no campo jurídico.
 
-Atualmente sou desenvolvedor web full stack, me considero uma pessoa simples e gosto de pensar que consigo solucionar um problema com algumas linhas de código. 
+Contudo, minha trajetória profissional sofreu uma transformação significativa, e descobri uma paixão pela programação quase aos 30 anos. Aprender a programar tem sido uma experiência gratificante, pois me permite resolver problemas por meio de algumas linhas de código. Buscar impactar positivamente a vida das pessoas por meio da programação, aliado ao meu entusiasmo pela tecnologia, me incentivou a realizar uma transição de carreira.
+
+Atualmente, concentro meus estudos no desenvolvimento Back End aprendendo Java e aprimorando os conhecimentos em programação orientada a objetos, ao mesmo tempo em que possuo uma base sólida em Front End. Minhas habilidades incluem programação em Node.js, TypeScript, Java, e NestJS no Back End, além de JavaScript, React, Next.js, HTML, CSS e TypeScript no Front End. Também possuo proficiência em bancos de dados relacionais (MySQL, PostgreSQL) e não relacionais (MongoDB), bem como conhecimento avançado em Docker e a realização de testes unitários e de integração utilizando Jest e Cypress. Adicionalmente, tenho experiência com serviços de mensageria, como o RabbitMQ, e conhecimentos básicos em Ruby on Rails.
+
+Estou em constante busca por aprimoramento e oportunidades desafiadoras na área de desenvolvimento, com o objetivo de aplicar meus conhecimentos e habilidades para criar soluções inovadoras e impactantes. Caso queira entrar em contato, fico à disposição para explorar colaborações e projetos que alinhem tecnologia, programação e melhoria da qualidade de vida das pessoas. 
 </section>
 
 ## 🧑🏾‍💻 Stack
